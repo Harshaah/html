@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(70, 39, 155);
+}
+#div1{
+    width: 70%;
+    height:200px;
+    background-color: rgb(10, 212, 111);
+}
+#div2{
+    background-color: blue;
+}
+#div3{
+    background-color: rgb(139, 48, 48);
+}
+#sub{
+    height: 500px;
+    width: 500px;
+    font-size: 300px;
+
+}
